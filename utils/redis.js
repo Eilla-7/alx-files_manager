@@ -31,7 +31,7 @@ class RedisClient {
           return reject(err);
         }
         resolve(true);
-        return(true);
+        return (true);
       });
     });
   }
@@ -43,7 +43,7 @@ class RedisClient {
           return reject(err);
         }
         resolve(true);
-        return(true);
+        return (true);
       });
     });
   }
