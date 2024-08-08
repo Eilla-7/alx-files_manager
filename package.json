@@ -1,7 +1,6 @@
 {
     "name": "files_manager",
     "version": "1.0.0",
-    "type": "module",
     "description": "### Overview This project serves as a comprehensive summary of the backend concepts covered during this trimester, including authentication NodeJS, MongoDB, Redis, pagination, and background processing. The objective is to build a simple platform that allows users to upload and view files.",
     "main": "index.js",
     "scripts": {
